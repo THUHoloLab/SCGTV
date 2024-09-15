@@ -1,2 +1,1 @@
-# SCGTV
-Saturation-Corrected Graph Total Variation (SCGTV) method can be applied for deblurring astronomical images.
+# SCGTV: Saturation-Corrected Graph Total Variation Method for Astronomical Images Deblurring.
